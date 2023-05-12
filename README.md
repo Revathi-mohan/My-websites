@@ -1,2 +1,2 @@
 # My-websites
-Designed websites from scratch and also creating websites using React
+Designed websites from scratch and also created websites using React
